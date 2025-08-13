@@ -1,3 +1,2 @@
-python-telegram-bot==20.3
-web3==6.2.0
-requests
+setuptools>=67.0.0 wheel python-telegram-bot==20.3 web3==6.2.0 requests
+
